@@ -26,4 +26,4 @@
 
 #bug or features missing
 
-# the player object won't reset it's position :(
+# the player object won't reset its position :(
